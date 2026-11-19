@@ -1,4 +1,4 @@
-# AI Complaint Classification & Escalation System
+# AI-Based College Complaint Classification & Escalation System
 
 Developed by:
 
@@ -10,7 +10,7 @@ Vaishnavi Pimparwar 161
 
 Pranali Thombare 163
 
-Project Guide: Ms. R. S. Dumne
+**Project Guide:** Ms. R. S. Dumne
 
 **CSE Department, Mahatma Gandhi Mission's College of Engineering, Nanded**
 
